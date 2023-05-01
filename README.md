@@ -23,4 +23,5 @@ df_train = df.iloc[idx_train]
 df_test = df.iloc[idx_test]
 ```
 
-For Melbourne Housing Price, use the attatched melb_data.csv
+For Melbourne Housing Price, 
+use the attatched melb_data.csv
